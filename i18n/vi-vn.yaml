@@ -1,0 +1,30 @@
+- id: last_update
+  translation: Last updated
+- id: phone
+  translation: Số điện thoại
+- id: email
+  translation: Email
+- id: location
+  translation: Vị trí
+- id: buy_now
+  translation: Mua ngay
+- id: address_title
+  translation: Stop By For A visit
+- id: submit
+  translation: Gửi thông tin
+- id: all
+  translation: Tất cả
+- id: posted_by
+  translation: Gửi bởi
+- id: read_more
+  translation: Tiếp tục
+- id: latest_posts
+  translation: Bài viết gần nhất
+- id: page_prev
+  translation: Trước
+- id: page_next
+  translation: Sau
+- id: tags
+  translation: Nhãn
+- id: categories
+  translation: Danh mục
